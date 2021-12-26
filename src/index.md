@@ -8,4 +8,4 @@ socialImage: ''
 ---
 
 Sebuah website yang menyediakan segala bentuk catatan semasa kuliah
-Build by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+Build by [Hylia.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
